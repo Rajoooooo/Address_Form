@@ -15,7 +15,7 @@
 <body class="bg-gray-100 min-h-screen flex items-center justify-center px-4">
 
 <div id="main-content" class="w-full max-w-2xl bg-white p-10 rounded-lg shadow-lg">
-    <h2 class="text-3xl font-bold text-gray-800 mb-8">Address form template</h2>
+    <h2 class="text-3xl font-bold text-gray-800 mb-8">Address form</h2>
 
     <form id="address-form" class="space-y-6">
         <!-- Name Fields -->
